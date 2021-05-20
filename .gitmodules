@@ -1,3 +1,6 @@
 [submodule "castle-quilldore"]
 	path = castle-quilldore
 	url = https://github.com/tobybutchart/Castle-Quilldore
+[submodule "Web-Audio-API-Synth"]
+	path = Web-Audio-API-Synth
+	url = https://github.com/tobybutchart/Web-Audio-API-Synth
