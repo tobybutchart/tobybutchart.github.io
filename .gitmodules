@@ -13,3 +13,4 @@
 [submodule "Pix-L-SortR"]
 	path = Pix-L-SortR
 	url = https://github.com/tobybutchart/Pix-L-SortR
+	ignore = all
