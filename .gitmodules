@@ -4,8 +4,6 @@
 [submodule "Web-Audio-API-Synth"]
 	path = Web-Audio-API-Synth
 	url = https://github.com/tobybutchart/Web-Audio-API-Synth
-[submodule "lib/Web-Audio-API-Synth"]
-	ignore = all
 [submodule "Pix-L-SortR"]
 	path = Pix-L-SortR
 	url = https://github.com/tobybutchart/Pix-L-SortR
