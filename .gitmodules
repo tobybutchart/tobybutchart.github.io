@@ -11,3 +11,7 @@
 [submodule "lib/music-player"]
 	path = lib/music-player
 	url = https://github.com/tobybutchart/music-player
+	ignore = all
+[submodule "music-player"]
+	path = music-player
+	url = https://github.com/tobybutchart/music-player
