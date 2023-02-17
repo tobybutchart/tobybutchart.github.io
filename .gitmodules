@@ -11,3 +11,6 @@
 [submodule "music-player"]
 	path = music-player
 	url = https://github.com/tobybutchart/music-player
+[submodule "Snips"]
+	path = Snips
+	url = https://github.com/tobybutchart/Snips
