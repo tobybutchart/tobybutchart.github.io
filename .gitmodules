@@ -14,3 +14,4 @@
 [submodule "Snips"]
 	path = Snips
 	url = https://github.com/tobybutchart/Snips
+	ignore = all
