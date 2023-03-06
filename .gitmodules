@@ -15,3 +15,7 @@
 	path = Snips
 	url = https://github.com/tobybutchart/Snips
 	ignore = all
+[submodule "ShopR"]
+	path = ShopR
+	url = https://github.com/tobybutchart/ShopR
+	ignore = all
