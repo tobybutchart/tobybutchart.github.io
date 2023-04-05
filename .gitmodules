@@ -19,3 +19,6 @@
 	path = ShopR
 	url = https://github.com/tobybutchart/ShopR
 	ignore = all
+[submodule "genny"]
+	path = genny
+	url = https://github.com/tobybutchart/genny
