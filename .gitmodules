@@ -22,3 +22,4 @@
 [submodule "genny"]
 	path = genny
 	url = https://github.com/tobybutchart/genny
+	ignore = all
