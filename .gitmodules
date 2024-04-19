@@ -23,3 +23,6 @@
 	path = genny
 	url = https://github.com/tobybutchart/genny
 	ignore = all
+[submodule "AudioAnalyzR"]
+	path = AudioAnalyzR
+	url = https://github.com/tobybutchart/AudioAnalyzR
