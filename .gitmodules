@@ -26,3 +26,4 @@
 [submodule "AudioAnalyzR"]
 	path = AudioAnalyzR
 	url = https://github.com/tobybutchart/AudioAnalyzR
+	ignore = all
