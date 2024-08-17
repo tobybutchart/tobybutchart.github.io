@@ -34,3 +34,4 @@
 [submodule "msg"]
 	path = msg
 	url = https://github.com/tobybutchart/msg
+	ignore = all
