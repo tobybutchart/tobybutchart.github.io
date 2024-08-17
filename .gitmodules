@@ -30,3 +30,7 @@
 [submodule "CursR"]
 	path = CursR
 	url = https://github.com/tobybutchart/CursR
+	ignore = all
+[submodule "msg"]
+	path = msg
+	url = https://github.com/tobybutchart/msg
