@@ -27,3 +27,6 @@
 	path = AudioAnalyzR
 	url = https://github.com/tobybutchart/AudioAnalyzR
 	ignore = all
+[submodule "CursR"]
+	path = CursR
+	url = https://github.com/tobybutchart/CursR
