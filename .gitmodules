@@ -35,3 +35,6 @@
 	path = msg
 	url = https://github.com/tobybutchart/msg
 	ignore = all
+[submodule "CursR-Client"]
+	path = CursR-Client
+	url = https://github.com/tobybutchart/CursR-Client
