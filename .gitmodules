@@ -38,3 +38,4 @@
 [submodule "CursR-Client"]
 	path = CursR-Client
 	url = https://github.com/tobybutchart/CursR-Client
+	ignore = all
