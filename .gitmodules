@@ -39,3 +39,7 @@
 	path = CursR-Client
 	url = https://github.com/tobybutchart/CursR-Client
 	ignore = all
+[submodule "test-comms"]
+	path = test-comms
+	url = https://github.com/tobybutchart/test-comms
+	ignore = all
